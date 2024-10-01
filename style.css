@@ -1,24 +1,24 @@
 .cabecalho {
-    background-color: black;
-    color: aliceblue;
+    background-image: linear-gradient(purple,gray);
+    color: black;
     display: flex;
     padding: 24px 0;
 }
 
 .section1 {
-    background-color: brown;
+    background-color: gray;
     padding: 60px;
 }
 
 .section2 {
-    background-color: blue;
+    background-color: gray;
     padding: 200px;
 }
 
-.cabecalho-imagem{
+.cabecalho-imagem {
     width: 200%;
 }
 
-.rodape{
-    background-color: black;
+.rodape {
+    background-color: purple;
 }
